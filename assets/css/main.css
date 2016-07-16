@@ -2003,6 +2003,10 @@
 			background: #f6f8fb url("images/image-wrapper.svg");
 		}
 
+		.image-wrapper p {
+			font-size: 12px;
+		}
+
 	#header-wrapper {
 		position: relative;
 		padding: 4em 0 2em 0;
