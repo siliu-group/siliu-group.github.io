@@ -3,6 +3,10 @@ layout: default
 title: Selected Papers
 ---
 
+### Recent:
+1. Wenqi Ren, **Si Liu**, Hua Zhang, Jianshan Pan, Xiaochun Cao, Ming-Hsuan Yang, Single Image Dehazing via Multi-Scale Convolutional Neural Networks, **ECCV** 2016. 
+
+
 ### Journal Papers:
 
 
