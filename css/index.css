@@ -1553,7 +1553,7 @@ body {
 
 body {
     background: #f5f7fa;
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Times New Roman', Times, serif, 'Source Sans Pro', sans-serif;
     font-weight: 300;
     color: #52575c;
     line-height: 1.75em;
@@ -1572,7 +1572,7 @@ body {
     }
 
 input, textarea, select {
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Times New Roman', Times, serif, 'Source Sans Pro', sans-serif;
     font-weight: 300;
     color: #52575c;
     line-height: 1.75em;
@@ -1955,7 +1955,7 @@ button,
 
     .icon:before {
         display: inline-block;
-        font-family: FontAwesome;
+        font-family: 'Times New Roman', Times, serif;
         font-size: 1.25em;
         text-decoration: none;
         font-style: normal;
@@ -2730,7 +2730,7 @@ button,
             }
 
                 #navButton .toggle:before {
-                    font-family: FontAwesome;
+                    font-family: 'Times New Roman', Times, serif
                     text-decoration: none;
                     font-style: normal;
                     font-weight: normal;
