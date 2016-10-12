@@ -41,7 +41,8 @@ navigation:
   - text: People
     url: /people
   - text: GroupSeminar
-    url: /groupseminar
+    url: /seminar
+    # url: /groupseminar
 
 exclude:
   - Gemfile
