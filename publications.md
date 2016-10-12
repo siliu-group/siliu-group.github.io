@@ -4,7 +4,7 @@ permalink: publications
 ---
 
 ### Recent:
-1. Wenqi Ren, **Si Liu**, Hua Zhang, Jianshan Pan, Xiaochun Cao, Ming-Hsuan Yang, Single Image Dehazing via Multi-Scale Convolutional Neural Networks, **ECCV** 2016. 
+1. Wenqi Ren, ***Si Liu***, Hua Zhang, Jianshan Pan, Xiaochun Cao, Ming-Hsuan Yang, Single Image Dehazing via Multi-Scale Convolutional Neural Networks, **ECCV** 2016. 
 
 
 ### Journal Papers:
@@ -20,8 +20,8 @@ permalink: publications
 8. **Si Liu**, Qiang Chen, Shuicheng Yan, Changsheng Xu, Hanqing Lu. "Snap & Play: Auto-Generate Personalized Find-the-Difference Game." IEEE Transactions on Image Processing (**TIST**), 2014.
 9. Luoqi Liu, Jun­liang Xing, **Si Liu**, Hui Xu, Xi Zhou, Shuicheng Yan. "Wow! You Are So Beau­ti­ful Today!". In ACM Trans­ac­tions on Mul­ti­me­dia Com­put­ing, Com­mu­ni­ca­tions and Ap­pli­ca­tions (**TOM­C­CAP**). In 2014.
 10. **Si Liu**, Shuicheng Yan, Tianzhu Zhang, Changsheng Xu, Jing Liu, Hanqing Lu. "Weakly-Supervised Graph Propagation Towards Collective Image Parsing." IEEE Transactions on Multimedia (**TMM**), Volume: 14, Issue: 2, Page(s): 361-373, 2012.
-11. Tianzhu Zhang, **Si Liu\***, Narendra Ahuja, Ming-Hsuan Yang, Bernard Ghanem, "Robust Visual Tracking via Consistent Low-Rank Sparse Learning", International Journal of Computer Vision (**IJCV**), 2014, in press, * Corresponding author.
-12. Zhenzhen Hu, **Si Liu\***, Jianguo Jiang, Richang Hong, Meng Wang, Shuicheng Yan: PicWords: Render a Picture by Packing Keywords. IEEE Transactions on Multimedia (**TMM**) 16(4): 1156-1164 (2014), * Corresponding author.
+11. Tianzhu Zhang, **Si Liu**, Narendra Ahuja, Ming-Hsuan Yang, Bernard Ghanem, "Robust Visual Tracking via Consistent Low-Rank Sparse Learning", International Journal of Computer Vision (**IJCV**), 2014, in press, * Corresponding author.
+12. Zhenzhen Hu, **Si Liu**, Jianguo Jiang, Richang Hong, Meng Wang, Shuicheng Yan: PicWords: Render a Picture by Packing Keywords. IEEE Transactions on Multimedia (**TMM**) 16(4): 1156-1164 (2014), * Corresponding author.
 13. Junshi Huang, **Si Liu**, Junliang Xing, Tao Mei, Shuicheng Yan. "Circle & Search:  Attribute-aware Shoe Retrieval.” Transactions on Multimedia Computing, Communications, and Applications (**TOMCCAP**), 2014.
 14. Annan Li, Luoqi Liu, Kang Wang, **Si Liu**, Shuicheng Yan. Clothing Attributes Assisted Person Re-identification. IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**). In 2014
 15. Tam V. Nguyen, **Si Liu**, Bingbing Ni, Jun Tan, Yong Rui, Shuicheng Yan. "Towards Decrypting Attractiveness via Multi-Modality Cues." Transactions on Multimedia Computing, Communications, and Applications (**TOMCCAP**), 2013.
@@ -41,7 +41,7 @@ permalink: publications
 8. Tianzhu Zhang, **Si Liu**, Changsheng Xu, Shuicheng Yan, Narendra Ahuja, Bernard Ghanem, Ming-Hsuan Yang. "Structural Sparse Tracking". In Proceedings of IEEE International Conference on Computer Vision and Pattern Recognition (**CVPR**), 2015
 9. Changqing Zhang, Huazhu Fu, **Si Liu**, Guangcan Liu, Xiaochun, Cao. Low-Rank Tensor Constrained Multiview Subspace Clustering. **ICCV **2015.
 10. Xiaodan Liang, **Si Liu**, Yunchao Wei, Luoqi Liu, Liang Lin, Shuicheng Yan. Towards Computational Baby Learning: A Weakly-Supervised Approach for Object Detection.**ICCV **2015
-11. Xiaodan Liang, Chunyan Xu, Xiaohui Shen, Jianchao Yang, **Si Liu**, Jinhui Tang, Liang Lin, Shuicheng Yan, Human Parsing With Contextualized Convolutional Neural Network, **ICCV **2015.
+11. Xiaodan Liang, Chunyan Xu, Xiaohui Shen, Jianchao Yang, **Si Liu**, Jinhui Tang, Liang Lin, Shuicheng Yan, Human Parsing With Contextualized Convolutional Neural Network, **ICCV** 2015.
 12. **Si Liu**, Xiaodan Liang, Luoqi Liu, Liang Lin, Ke Lv, Shuicheng Yan. Fashion Parsing with Video Context. In ACM International Conference on Multimedia **(ACM MM),**2014, (**full paper**).
 13. **Si Liu**, Tam V. Nguyen, Jiashi Feng, Meng Wang, Shuicheng Yan, "Hi, magic closet, tell me what to wear!" International Conference on Multimedia **(ACM MM)**, 2012, **(Best Technical Demonstration Award).**
 14. **Si Liu**, Jiashi Feng, Zheng Song, Tianzhu Zhang, Hanqing Lu, Changsheng Xu, Shuicheng Yan. "Hi, magic closet, tell me what to wear!" International Conference on Multimedia (**ACM MM)**, 2012, (**full paper)**.
