@@ -19,7 +19,7 @@ by Liang Zheng, Yi Yang, and Alexander G. Hauptmann.
 [Perceptual Losses for Real-time Style Transfer and Single Image Super-Resolution](https://arxiv.org/abs/1603.08155).    
 by Justin Johnson, Alexandre Alahi, Li Fei-Fei in ECCV 16.
 
-4. **Yao Sun(孙瑶)**[[Slide(ppt)](https://pan.baidu.com/s/1bJgW3s)]    
+4. **Renda Bao(包仁达)**[[Slide(ppt)](https://pan.baidu.com/s/1bJgW3s)]    
 [Pedestrian Attribute Recognition At Far Distance](https://arxiv.org/abs/1608.08526).    
 by Yubin Deng, Ping Luo, Chen Change Loy, Xiaoou Tang in MM 14.
 
