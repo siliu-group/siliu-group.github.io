@@ -4,22 +4,22 @@ permalink: seminar
 ---
 
 ### Sunday, 26 November 2016, 14:00 
-1. **Liu Si(刘偲)**[[Slide(ppt)](http://pan.baidu.com/s/1miJeQPM)]
-[Deep Feature Flow for Video Recognition](https://128.84.21.199/abs/1611.07715)
+1. **Liu Si(刘偲)**[[Slide(ppt)](http://pan.baidu.com/s/1miJeQPM)]        
+[Deep Feature Flow for Video Recognition](https://128.84.21.199/abs/1611.07715)    
 by Seguin, Guillaume, et al.
 
-2. **Wei Zhen(魏震)**[[Slide(ppt)](http://pan.baidu.com/s/1pLyGaDX)]
+2. **Wei Zhen(魏震)**[[Slide(ppt)](http://pan.baidu.com/s/1pLyGaDX)]    
 深度学习在图像取证中的进展与趋势
 
-3. **Ou Xinyu(欧新宇)**[[Slide(ppt)](http://pan.baidu.com/s/1jHGkVwa)]
-[Aggregated Residual Transformations for Deep Neural Networks](https://arxiv.org/abs/1611.05431)
-by Saining Xie, Ross Girshick, Piotr Dollar, Zhuowen Tu1, Kaiming He
-[PersonNet: Person Re-identification with Deep Convolutional Neural Networks](https://arxiv.org/abs/1601.07255)
-by Lin Wu, Chunhua Shen, Anton van den Hengel
-[Deep Recurrent Convolutional Networks for Video-based Person Re-identification: An End-to-End Approach](https://arxiv.org/abs/1606.01609)
+3. **Ou Xinyu(欧新宇)**[[Slide(ppt)](http://pan.baidu.com/s/1jHGkVwa)]    
+[Aggregated Residual Transformations for Deep Neural Networks](https://arxiv.org/abs/1611.05431)    
+by Saining Xie, Ross Girshick, Piotr Dollar, Zhuowen Tu1, Kaiming He    
+[PersonNet: Person Re-identification with Deep Convolutional Neural Networks](https://arxiv.org/abs/1601.07255)    
+by Lin Wu, Chunhua Shen, Anton van den Hengel    
+[Deep Recurrent Convolutional Networks for Video-based Person Re-identification: An End-to-End Approach](https://arxiv.org/abs/1606.01609)    
 by Lin Wu,  Chunhua Shen,  Anton van den Hengel
 
-4. **Qian Ruihe(钱瑞和)**[[Slide(ppt)]()]
+4. **Qian Ruihe(钱瑞和)**[[Slide(ppt)]()]    
 [Pose Estimation and Segmentation of Multiple People in Stereoscopic Movies](https://www.google.com.hk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwiTlOSG7MjQAhXKtY8KHaEIBc8QFggbMAA&url=http%3a%2f%2fwww%2edi%2eens%2efr%2f~josef%2fpublications%2fSeguin15%2epdf&usg=AFQjCNHr2B6rO1zGPgPLpel1qPNBhkFzKg&sig2=jqNJssvPnumI1RFhQN1NzA)
 
 
