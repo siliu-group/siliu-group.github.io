@@ -3,7 +3,7 @@ layout: default
 permalink: seminar
 ---
 
-### Sunday, 16 October 2016, 13:00 
+### Sunday, 26 November 2016, 14:00 
 1. **Liu Si(刘偲)**[[Slide(ppt)](http://pan.baidu.com/s/1miJeQPM)
 [Deep Feature Flow for Video Recognition](https://128.84.21.199/abs/1611.07715)
 by Seguin, Guillaume, et al.
