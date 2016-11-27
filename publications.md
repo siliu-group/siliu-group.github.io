@@ -5,7 +5,7 @@ permalink: publications
 
 ### Recent:
 1. Wenqi Ren, **<u>Si Liu</u>**, Hua Zhang, Jianshan Pan, Xiaochun Cao, Ming-Hsuan Yang, Single Image Dehazing via Multi-Scale Convolutional Neural Networks, **ECCV** 2016. 
-
+2. Xinyu Ou, **<u>Si Liu</u>**, Xiaochun Cao, Hefei Ling,  "Beauty eMakeup: A Deep Makeup Transfer System" , **ACM MM** 2016 demo.
 
 ### Journal Papers:
 
