@@ -3,20 +3,20 @@ layout: default
 permalink: seminar
 ---
 ### Sunday, 04 December 2016, 14:00
-1. **Liu Si(刘偲)**[[Slide(ppt)](https://pan.baidu.com/s/1cb0rUY)]
+1. **Liu Si(刘偲)**[[Slide(ppt)](https://pan.baidu.com/s/1cb0rUY)]    
 [Texture Networks:Feed-forward Synthesis of Textures and Stylized Images](https://arxiv.org/abs/1603.03417).
-by Ulyanov, Dmitry, Vadim Lebedev, Andrea Vedaldi, and Victor Lempitsky. 
-[Fast Face-swap Using Convolutional Neural Networks](https://arxiv.org/abs/1611.09577)[[Slide(ppt)](https://pan.baidu.com/s/1qYlNl3e)]
+by Ulyanov, Dmitry, Vadim Lebedev, Andrea Vedaldi, and Victor Lempitsky.     
+[Fast Face-swap Using Convolutional Neural Networks](https://arxiv.org/abs/1611.09577)[[Slide(ppt)](https://pan.baidu.com/s/1qYlNl3e)]    
 by Iryna Korshunova, Wenzhe Shi, Joni Dambre, Lucas Theis.
 
-2. **Ou Xinyu(欧新宇)**[[Slide(ppt)](https://pan.baidu.com/s/1mhELwuc)]  
+2. **Ou Xinyu(欧新宇)**[[Slide(ppt)](https://pan.baidu.com/s/1mhELwuc)]   
 [Is Faster R-CNN Doing Well for Pedestrian Detection?](http://arxiv.org/pdf/1607.07032v2)
 
-3. **Wei Wang(王暐)**[[Slide(ppt)](https://pan.baidu.com/s/1gfQbfyj)] 
+3. **Wei Wang(王暐)**[[Slide(ppt)](https://pan.baidu.com/s/1gfQbfyj)]     
 [A Discriminatively Learned CNN Embedding for Person Re-identification](https://arxiv.org/pdf/1611.05666)
 by Zhedong Zheng, Liang Zheng, Yi Yang.
 
-4. **Wei Zhen(魏震)**
+4. **Wei Zhen(魏震)**    
 [semantic segmentation using adversarial networks](https://arxiv.org/abs/1611.08408)
 by Pauline Luc, Camille Couprie, Soumith Chintala, Jakob Verbeek
 
