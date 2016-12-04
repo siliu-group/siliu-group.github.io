@@ -4,8 +4,11 @@ permalink: publications
 ---
 
 ### Recent:
-1. Wenqi Ren, **<u>Si Liu</u>**, Hua Zhang, Jianshan Pan, Xiaochun Cao, Ming-Hsuan Yang, Single Image Dehazing via Multi-Scale Convolutional Neural Networks, **ECCV** 2016. 
-2. Xinyu Ou, **<u>Si Liu</u>**, Xiaochun Cao, Hefei Ling,  "Beauty eMakeup: A Deep Makeup Transfer System" , **ACM MM** 2016 demo.
+1. Xinyu Ou, Hefei Ling, **<u>Si Liu</u>**, Jie Lei. Hierarchical Deep Semantic Hashing for Fast Image Retrieval. Multimedia Tools and Applications
+2. Xinyu Ou, **<u>Si Liu</u>**, Xiaochun Cao, Hefei Ling. Beauty eMakeup: a Deep Makeup Transfer System. MM '16 Proceedings of the 2016 ACM on Multimedia Conference Pages 701-702 . Amsterdam, The Netherlands. 15th-19th October, 2016 [[demo](https://pan.baidu.com/s/1nvfhHZr)]
+3. **<u>Si Liu</u>**, Changhu Wang, Ruihe Qian, Han Yu, Renda Bao, Surveillance Video Parsing with Single Frame Supervision，　arxiv preprint
+4. Wenqi Ren, **<u>Si Liu</u>**, Hua Zhang, Jianshan Pan, Xiaochun Cao, Ming-Hsuan Yang, Single Image Dehazing via Multi-Scale Convolutional Neural Networks, **ECCV** 2016. [[demo](https://pan.baidu.com/s/1hrAPH1U)]
+
 
 ### Journal Papers:
 
@@ -60,4 +63,4 @@ permalink: publications
 27. Tianzhu Zhang, Bernard Ghanem, **<u>Si Liu</u>**, Narendra Ahuja. "Low-Rank Sparse Learning for Robust Visual Tracking." European Conference on Computer Vision (**ECCV**), 2012.
 28. Tianzhu Zhang, Bernard Ghanem, **<u>Si Liu</u>**, Narendra Ahuja. "Robust Visual Tracking via Multi-Task Sparse Learning." In Proceedings of IEEE International Conference on Computer Vision and Pattern Recognition (**CVPR**), 2012, (**Oral**, 2.5%).
 29. Tianzhu Zhang, Changsheng Xu, Guangyu Zhu, **<u>Si Liu</u>**, Hanqing Lu. "A Generic Framework for Event Detection in Various Video Domain." International Conference on Multimedia (**ACM MM)**, 2010 (**full paper**).
-
+30. Xinyu Ou, **<u>Si Liu</u>**, Xiaochun Cao, Hefei Ling,  "Beauty eMakeup: A Deep Makeup Transfer System" , **ACM MM** 2016 demo.
