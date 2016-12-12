@@ -2,6 +2,27 @@
 layout: default
 permalink: seminar
 ---
+
+### Sunday, 10 December 2016, 14:00
+1. **Liu Si(刘偲)**[[Slide(ppt)](https://pan.baidu.com/s/1geCUdj1)]    
+[Some recent Progress of disparity estimation and stereo Matching](http://vision.middlebury.edu/stereo/eval/papers/CORegion.pdf).     
+by Zeng-Fu Wang, Zhi-Gang Zheng.    
+   **Liu Si(刘偲)**[[Slide(ppt)](https://pan.baidu.com/s/1bBczYA)]   
+[Generative visual manipulation on the natural image manifold](http://people.eecs.berkeley.edu/~junyanz/projects/gvm/).      
+by Jun-Yan Zhu, Philipp Krähenbühl, Eli Shechtman and Alexei A. Efros.      
+
+2. **Wei Wang(王暐)**[[Slide(ppt)](https://pan.baidu.com/s/1mijnWoC)]    
+[Recurrent Attention Models for Depth-Based Person Identification](http://vision.stanford.edu/pdf/haque2016cvpr.pdf)    
+by Albert Haque, Alexandre Alahi, Li Fei-Fei.     
+
+3. **Gao Jiajun(高佳俊)**[[Slide(ppt)](https://pan.baidu.com/s/1i5douRr)]      
+[RMPE: Regional Multi-person Pose Estimation](https://arxiv.org/abs/1612.00137)   
+by Haoshu Fang, Shuqin Xie, Cewu Lu.    
+
+4. **Yu Han(庾涵)**[[Slide(ppt)]()]     
+[Controlling Perceptual Factors in Neural Style Transfer](Controlling Perceptual Factors in Neural Style Transfer)    
+by Leon A. Gatys, Alexander S. Ecker, Matthias Bethge, Aaron Hertzmann, Eli Shechtman    
+
 ### Sunday, 04 December 2016, 14:00
 1. **Liu Si(刘偲)**[[Slide(ppt)](https://pan.baidu.com/s/1cb0rUY)]    
 [Texture Networks:Feed-forward Synthesis of Textures and Stylized Images](https://arxiv.org/abs/1603.03417).   
