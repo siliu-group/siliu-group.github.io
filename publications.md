@@ -4,18 +4,18 @@ permalink: publications
 ---
 
 ### Recent:
-1. Xinyu Ou, Hefei Ling, **<u>Si Liu</u>**, Jie Lei. Hierarchical Deep Semantic Hashing for Fast Image Retrieval. Multimedia Tools and Applications
-2. Xinyu Ou, **<u>Si Liu</u>**, Xiaochun Cao, Hefei Ling. Beauty eMakeup: a Deep Makeup Transfer System. MM '16 Proceedings of the 2016 ACM on Multimedia Conference Pages 701-702 . Amsterdam, The Netherlands. 15th-19th October, 2016 [[demo](https://pan.baidu.com/s/1nvfhHZr)]
-3. **<u>Si Liu</u>**, Changhu Wang, Ruihe Qian, Han Yu, Renda Bao, Surveillance Video Parsing with Single Frame Supervision，　arxiv preprint[[demo](https://pan.baidu.com/s/1hrAPH1U)]
-4. Wenqi Ren, **<u>Si Liu</u>**, Hua Zhang, Jianshan Pan, Xiaochun Cao, Ming-Hsuan Yang, Single Image Dehazing via Multi-Scale Convolutional Neural Networks, **ECCV** 2016. 
+1. Xinyu Ou, Hefei Ling, **<u>Si Liu</u>**, Jie Lei. Hierarchical Deep Semantic Hashing for Fast Image Retrieval. Multimedia Tools and Applications. [(<a href="Ou.pdf">Paper</a>)]
+2. Xinyu Ou, **<u>Si Liu</u>**, Xiaochun Cao, Hefei Ling. Beauty eMakeup: a Deep Makeup Transfer System. MM '16 Proceedings of the 2016 ACM on Multimedia Conference Pages 701-702 . Amsterdam, The Netherlands. 15th-19th October, 2016 [[demo](https://pan.baidu.com/s/1o7EHVpo)]. [[Paper](http://delivery.acm.org/10.1145/2980000/2973812/p701-ou.pdf?ip=159.226.95.65&id=2973812&acc=ACTIVE%20SERVICE&key=33E289E220520BFB%2E99E4F0382D256DD3%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=704994244&CFTOKEN=90840840&__acm__=1481893553_22e5d15036888f97bd5022eb97e4aa10)]
+3. **<u>Si Liu</u>**, Changhu Wang, Ruihe Qian, Han Yu, Renda Bao, Surveillance Video Parsing with Single Frame Supervision，　arxiv preprint[[demo](https://pan.baidu.com/s/1hrAPH1U)].[[Paper](https://arxiv.org/pdf/1611.09587v1.pdf)]
+4. Wenqi Ren, **<u>Si Liu</u>**, Hua Zhang, Jianshan Pan, Xiaochun Cao, Ming-Hsuan Yang, Single Image Dehazing via Multi-Scale Convolutional Neural Networks, **ECCV** 2016. [[Paper](http://faculty.ucmerced.edu/mhyang/papers/eccv16_dehazing.pdf)] 
 5. **<u>Si Liu</u>**, Lisa M. Brown, Qiang Chen, Junshi Huang, Luoqi Liu and Shuicheng Yan, Visual Attributes for Fashion Analytics.  Chapter in Visual Attributes.  R. Feris, C. Lampert, and D. Parikh, Editors.  Springer.  To appear, 2016. [(<a href="Paper.pdf">Preprint</a>)]
 
 
 ### Journal Papers:
 
 
-1. Wei Wang, Chunping Wang, **<u>Si Liu</u>**,  Xiaochun Cao, Robust Target Tracking by Online Random Forests and Superpixels, IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**) 2016.
-2. Xiaochun Cao, Zhiyong Chen, Bin Hu, Wei Zhang, **<u>Si Liu</u>**, and Dan Meng, Retrieving Objects by Partitioning, IEEE Transactions on Big Data (**TBD**), 2016
+1. Wei Wang, Chunping Wang, **<u>Si Liu</u>**,  Xiaochun Cao, Robust Target Tracking by Online Random Forests and Superpixels, IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**) 2016. [(<a href="Wangwei.pdf">Paper</a>)]
+2. Zhiyong Chen, Wei Zhang, Bin Hu, Xiaochun Cao, **<u>Si Liu</u>**, and Dan Meng, Retrieving Objects by Partitioning, IEEE Transactions on Big Data (**TBD**), 2016 [(<a href="zhiyong_big_data_Retrieving Objects by Partitioning.pdf">Paper</a>)]
 3. **<u>Si Liu</u>**, Xiaodan Liang, Luoqi Liu, Liang Lin, Ke Lv, Xiaochun Cao , Shuicheng Yan, Fashion Parsing With Video Context, IEEE Transactions on Multimedia (**TMM**) 2015. 
 4. Xiaochun Cao, Hua Zhang, Xiaojie Guo, **<u>Si Liu</u>** and Dan Meng, SLED: Semantic Label Embedding Dictionary Representation for Multi-label Image Annotation, IEEE Trans. on Image Processing **(TIP)** ,  2015.
 5. Xiaodan Liang, **<u>Si Liu</u>**, Xiaohui Shen, Jianchao Yang, Luoqi Liu, Liang Lin, Shuicheng Yan, Deep Human Parsing with Active Template Regression, IEEE Transactions on Pattern Analysis and Machine Intelligence, (**TPAMI**) 2015.
@@ -35,17 +35,17 @@ permalink: publications
 
 ### Conference Papers:
 
-1. Xinyu Ou, Zhen Wei, **<u>Si Liu</u>**, Xiaochun Cao, Hefei Ling, Deep Multi-Context Network for Fine-Grained Visual Recognition, 2016 IEEE International Conference on Multimedia and Expo (**ICME **2016), Grand Challenge
-2. **<u>Si Liu</u>**, Xinyu Ou, Ruihe Qian, Wei Wang and Xiaochun Cao, Makeup like a superstar: Deep Localized Makeup Transfer Network, International Joint Conference on Artificial Intelligence (**IJCAI**) 2016
-3. **<u>Si Liu</u>**, Tianzhu Zhang, Changsheng Xu, and Xiaochun Cao, Structural Correlation Filter for Robust Visual Tracking, **CVPR **2016
-4. Hua Zhang, **<u>Si Liu</u>**, Changqing Zhang, Wenqi Ren, Xiaochun Cao, SketchNet: Sketch Classification with Web Images, **CVPR **2016
-5. Chuan Wang, Hua Zhang, Yang Liang, **<u>Si Liu</u>**, Xiaochun Cao, Deep People Counting in Extremely Dense Crowds, **ACM MM** 2015.
-6. **<u>Si Liu</u>**, Xiaodan Liang, Luoqi Liu,  Xiaohui Shen, Jianchao Yang, Changsheng Xu, Xiaochun Cao, Shuicheng Yan. “Matching-CNN Meets KNN: Quasi-Parametric Human Parsing. In Proceedings of IEEE International Conference on Computer Vision and Pattern Recognition (**CVPR**), 2015
-7. Xiaochun Cao, Changqing Zhang, Huazhu Fu,** Si Liu**. "Diversity-induced Multiview Subspace Clustering." In Proceedings of IEEE International Conference on Computer Vision and Pattern Recognition (**CVPR**), 2015
-8. Tianzhu Zhang, **<u>Si Liu</u>**, Changsheng Xu, Shuicheng Yan, Narendra Ahuja, Bernard Ghanem, Ming-Hsuan Yang. "Structural Sparse Tracking". In Proceedings of IEEE International Conference on Computer Vision and Pattern Recognition (**CVPR**), 2015
-9. Changqing Zhang, Huazhu Fu, **<u>Si Liu</u>**, Guangcan Liu, Xiaochun, Cao. Low-Rank Tensor Constrained Multiview Subspace Clustering. **ICCV **2015.
-10. Xiaodan Liang, **<u>Si Liu</u>**, Yunchao Wei, Luoqi Liu, Liang Lin, Shuicheng Yan. Towards Computational Baby Learning: A Weakly-Supervised Approach for Object Detection.**ICCV **2015
-11. Xiaodan Liang, Chunyan Xu, Xiaohui Shen, Jianchao Yang, **<u>Si Liu</u>**, Jinhui Tang, Liang Lin, Shuicheng Yan, Human Parsing With Contextualized Convolutional Neural Network, **ICCV** 2015.
+1. Xinyu Ou, Zhen Wei, **<u>Si Liu</u>**, Xiaochun Cao, Hefei Ling, Deep Multi-Context Network for Fine-Grained Visual Recognition, 2016 IEEE International Conference on Multimedia and Expo (**ICME **2016), Grand Challenge [[Paper](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7574666)]
+2. **<u>Si Liu</u>**, Xinyu Ou, Ruihe Qian, Wei Wang and Xiaochun Cao, Makeup like a superstar: Deep Localized Makeup Transfer Network, International Joint Conference on Artificial Intelligence (**IJCAI**) 2016 [[Paper](https://arxiv.org/pdf/1604.07102.pdf)]
+3. **<u>Si Liu</u>**, Tianzhu Zhang, Changsheng Xu, and Xiaochun Cao, Structural Correlation Filter for Robust Visual Tracking, **CVPR **2016 [[Paper](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_Structural_Correlation_Filter_CVPR_2016_paper.pdf)]
+4. Hua Zhang, **<u>Si Liu</u>**, Changqing Zhang, Wenqi Ren, Xiaochun Cao, SketchNet: Sketch Classification with Web Images, **CVPR **2016 [[Paper](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_SketchNet_Sketch_Classification_CVPR_2016_paper.pdf)]
+5. Chuan Wang, Hua Zhang, Yang Liang, **<u>Si Liu</u>**, Xiaochun Cao, Deep People Counting in Extremely Dense Crowds, **ACM MM** 2015. [[Paper](http://yangliang.github.io/pdf/sp055u.pdf)]
+6. **<u>Si Liu</u>**, Xiaodan Liang, Luoqi Liu,  Xiaohui Shen, Jianchao Yang, Changsheng Xu, Xiaochun Cao, Shuicheng Yan. “Matching-CNN Meets KNN: Quasi-Parametric Human Parsing. In Proceedings of IEEE International Conference on Computer Vision and Pattern Recognition (**CVPR**), 2015[[Paper](http://users.eecs.northwestern.edu/~xsh835/assets/cvpr15_humanparsing.pdf)]
+7. Xiaochun Cao, Changqing Zhang, Huazhu Fu,** Si Liu**. "Diversity-induced Multiview Subspace Clustering." In Proceedings of IEEE International Conference on Computer Vision and Pattern Recognition (**CVPR**), 2015 [[Paper](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Cao_Diversity-Induced_Multi-View_Subspace_2015_CVPR_paper.pdf)]
+8. Tianzhu Zhang, **<u>Si Liu</u>**, Changsheng Xu, Shuicheng Yan, Narendra Ahuja, Bernard Ghanem, Ming-Hsuan Yang. "Structural Sparse Tracking". In Proceedings of IEEE International Conference on Computer Vision and Pattern Recognition (**CVPR**), 2015 [[Paper](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Zhang_Structural_Sparse_Tracking_2015_CVPR_paper.pdf)]
+9. Changqing Zhang, Huazhu Fu, **<u>Si Liu</u>**, Guangcan Liu, Xiaochun, Cao. Low-Rank Tensor Constrained Multiview Subspace Clustering. **ICCV **2015. [[Paper](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Zhang_Low-Rank_Tensor_Constrained_ICCV_2015_paper.pdf)]
+10. Xiaodan Liang, **<u>Si Liu</u>**, Yunchao Wei, Luoqi Liu, Liang Lin, Shuicheng Yan. Towards Computational Baby Learning: A Weakly-Supervised Approach for Object Detection.**ICCV **2015 [[Paper](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Liang_Towards_Computational_Baby_ICCV_2015_paper.pdf)]
+11. Xiaodan Liang, Chunyan Xu, Xiaohui Shen, Jianchao Yang, **<u>Si Liu</u>**, Jinhui Tang, Liang Lin, Shuicheng Yan, Human Parsing With Contextualized Convolutional Neural Network, **ICCV** 2015. [[Paper](http://www.ifp.illinois.edu/~jyang29/papers/TPAMI15-CoCNN.pdf)]
 12. **<u>Si Liu</u>**, Xiaodan Liang, Luoqi Liu, Liang Lin, Ke Lv, Shuicheng Yan. Fashion Parsing with Video Context. In ACM International Conference on Multimedia **(ACM MM),**2014, (**full paper**).
 13. **<u>Si Liu</u>**, Tam V. Nguyen, Jiashi Feng, Meng Wang, Shuicheng Yan, "Hi, magic closet, tell me what to wear!" International Conference on Multimedia **(ACM MM)**, 2012, **(Best Technical Demonstration Award).**
 14. **<u>Si Liu</u>**, Jiashi Feng, Zheng Song, Tianzhu Zhang, Hanqing Lu, Changsheng Xu, Shuicheng Yan. "Hi, magic closet, tell me what to wear!" International Conference on Multimedia (**ACM MM)**, 2012, (**full paper)**.
