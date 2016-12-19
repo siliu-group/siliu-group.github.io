@@ -2,6 +2,20 @@
 layout: default
 permalink: seminar
 ---
+### Saturday, 17 December 2016, 14:00
+1. **Liu Si(刘偲)**[[Slide(ppt)](https://pan.baidu.com/s/1i5a6WXf)]  
+[Learning Physical Intuition of Block Towers by Example](https://arxiv.org/abs/1603.01312)    
+by Adam Lerer, Sam Gross, Rob Fergus.  
+
+2. **Ou Xinyu(欧新宇)**[[Slide(ppt)](https://pan.baidu.com/s/1pLNdLeN)]  
+[All about GAN](https://pan.baidu.com/s/1dEBCAY1)    
+by Ian Goodfellow.      
+
+3. **Yu Han(庾涵)**[[Slide(ppt)](https://pan.baidu.com/s/1jILScYi)]   
+[Instance normalization:the missing ingredient for fast stylization](https://arxiv.org/abs/1607.08022)   
+by Dmitry Ulyanov, Andrea Vedaldi, Victor Lempitsky.    
+
+
 
 ### Sunday, 10 December 2016, 14:00
 1. **Liu Si(刘偲)**[[Slide(ppt)](https://pan.baidu.com/s/1geCUdj1)]    
