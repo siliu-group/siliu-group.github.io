@@ -4,11 +4,12 @@ permalink: publications
 ---
 
 ### Recent:
-1. Xinyu Ou, Hefei Ling, **<u>Si Liu</u>**, Jie Lei. Hierarchical Deep Semantic Hashing for Fast Image Retrieval. Multimedia Tools and Applications. [(<a href="Ou.pdf">Paper</a>)]
-2. Xinyu Ou, **<u>Si Liu</u>**, Xiaochun Cao, Hefei Ling. Beauty eMakeup: a Deep Makeup Transfer System. MM '16 Proceedings of the 2016 ACM on Multimedia Conference Pages 701-702 . Amsterdam, The Netherlands. 15th-19th October, 2016 [[demo](https://pan.baidu.com/s/1o7EHVpo)]. [(<a href="Beauty eMakeup: a Deep Makeup Transfer System.pdf">Paper</a>)]  
-3. **<u>Si Liu</u>**, Changhu Wang, Ruihe Qian, Han Yu, Renda Bao, Surveillance Video Parsing with Single Frame Supervision，　arxiv preprint[[demo](https://pan.baidu.com/s/1hrAPH1U)].[[Paper](https://arxiv.org/pdf/1611.09587v1.pdf)]
-4. Wenqi Ren, **<u>Si Liu</u>**, Hua Zhang, Jianshan Pan, Xiaochun Cao, Ming-Hsuan Yang, Single Image Dehazing via Multi-Scale Convolutional Neural Networks, **ECCV** 2016. [[Paper](http://faculty.ucmerced.edu/mhyang/papers/eccv16_dehazing.pdf)] 
-5. **<u>Si Liu</u>**, Lisa M. Brown, Qiang Chen, Junshi Huang, Luoqi Liu and Shuicheng Yan, Visual Attributes for Fashion Analytics.  Chapter in Visual Attributes.  R. Feris, C. Lampert, and D. Parikh, Editors.  Springer.  To appear, 2016. [(<a href="Paper.pdf">Preprint</a>)]
+1. Hua Zhang, **<u>Si Liu</u>**, Changqing Zhang, Rui Wang, Xiaochun Cao, LEAF:Latent Extended Attribute Features Discovery for Visual Classification, IEEE Trans. on Image Processing(TIP). (accept)
+2. Xinyu Ou, Hefei Ling, **<u>Si Liu</u>**, Jie Lei. Hierarchical Deep Semantic Hashing for Fast Image Retrieval. Multimedia Tools and Applications. [(<a href="Ou.pdf">Paper</a>)]
+3. Xinyu Ou, **<u>Si Liu</u>**, Xiaochun Cao, Hefei Ling. Beauty eMakeup: a Deep Makeup Transfer System. MM '16 Proceedings of the 2016 ACM on Multimedia Conference Pages 701-702 . Amsterdam, The Netherlands. 15th-19th October, 2016 [[demo](https://pan.baidu.com/s/1o7EHVpo)]. [(<a href="Beauty eMakeup: a Deep Makeup Transfer System.pdf">Paper</a>)]  
+4. **<u>Si Liu</u>**, Changhu Wang, Ruihe Qian, Han Yu, Renda Bao, Surveillance Video Parsing with Single Frame Supervision，　arxiv preprint[[demo](https://pan.baidu.com/s/1hrAPH1U)].[[Paper](https://arxiv.org/pdf/1611.09587v1.pdf)]
+5. Wenqi Ren, **<u>Si Liu</u>**, Hua Zhang, Jianshan Pan, Xiaochun Cao, Ming-Hsuan Yang, Single Image Dehazing via Multi-Scale Convolutional Neural Networks, **ECCV** 2016. [[Paper](http://faculty.ucmerced.edu/mhyang/papers/eccv16_dehazing.pdf)] 
+6. **<u>Si Liu</u>**, Lisa M. Brown, Qiang Chen, Junshi Huang, Luoqi Liu and Shuicheng Yan, Visual Attributes for Fashion Analytics.  Chapter in Visual Attributes.  R. Feris, C. Lampert, and D. Parikh, Editors.  Springer.  To appear, 2016. [(<a href="Paper.pdf">Preprint</a>)]
 
 
 ### Journal Papers:
