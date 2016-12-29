@@ -65,4 +65,4 @@ permalink: publications
 27. Tianzhu Zhang, Bernard Ghanem, **<u>Si Liu</u>**, Narendra Ahuja. "Low-Rank Sparse Learning for Robust Visual Tracking." European Conference on Computer Vision (**ECCV**), 2012.
 28. Tianzhu Zhang, Bernard Ghanem, **<u>Si Liu</u>**, Narendra Ahuja. "Robust Visual Tracking via Multi-Task Sparse Learning." In Proceedings of IEEE International Conference on Computer Vision and Pattern Recognition (**CVPR**), 2012, (**Oral**, 2.5%).
 29. Tianzhu Zhang, Changsheng Xu, Guangyu Zhu, **<u>Si Liu</u>**, Hanqing Lu. "A Generic Framework for Event Detection in Various Video Domain." International Conference on Multimedia (**ACM MM)**, 2010 (**full paper**).
-30. Xinyu Ou, **<u>Si Liu</u>**, Xiaochun Cao, Hefei Ling,  "Beauty eMakeup: A Deep Makeup Transfer System" , **ACM MM** 2016 demo.
+
