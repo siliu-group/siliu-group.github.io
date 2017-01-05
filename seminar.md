@@ -2,6 +2,23 @@
 layout: default
 permalink: seminar
 ---
+### Saturday, 31 December 2016, 14:00
+1. **Liu Si(刘偲)**[[Slide(ppt)](https://pan.baidu.com/s/1qYhLfZY)]  
+[无监督的Dense Correspondence学习方法]()    
+
+2. **Ren Guanghui(任广辉)**[[Slide(ppt)](https://pan.baidu.com/s/1pKIKIIB)]  
+[Speed/accuracy trade-offs for modern convolutional object detectors](https://arxiv.org/abs/1611.10012)    
+Jonathan Huang, Vivek Rathod, Chen Sun, Menglong Zhu, Anoop Korattikara, Alireza Fathi, Ian Fischer, Zbigniew Wojna, Yang Song, Sergio Guadarrama, Kevin Murphy.      
+
+3. **Ren Lejian(任乐建)**[[Slide(ppt)]()]   
+[Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993)   
+by Gao Huang, Zhuang Liu, Kilian Q. Weinberger, Laurens van der Maaten.    
+
+4. **Gao Jiajun(高佳俊)**[[Slide(ppt)](https://pan.baidu.com/s/1sl5zEB7)]      
+[Realtime Multi-Person 2D Pose Estimation using Part Affinity Fileds](https://arxiv.org/abs/1611.08050)   
+by Zhe Cao, Tomas Simon, Shih-En Wei, Yaser Sheikh.  
+
+
 ### Saturday, 17 December 2016, 14:00
 1. **Liu Si(刘偲)**[[Slide(ppt)](https://pan.baidu.com/s/1i5a6WXf)]  
 [Learning Physical Intuition of Block Towers by Example](https://arxiv.org/abs/1603.01312)    
