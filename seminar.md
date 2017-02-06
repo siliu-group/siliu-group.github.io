@@ -3,13 +3,13 @@ layout: default
 permalink: seminar
 ---
 ### Saturday, 14 January 2017, 14:00 
-1. **Zhu Defa(朱德发)**[[Slide(ppt)](https://pan.baidu.com/s/1pLvvZeF)] 
-[GANs初游水]()
+1. **Zhu Defa(朱德发)**[[Slide(ppt)](https://pan.baidu.com/s/1pLvvZeF)]    
+[GANs初游水]()  
 
 ### Saturday, 7 January 2017, 14:00
 1. **Liu Si(刘偲)**[[Slide(ppt)](https://pdfs.semanticscholar.org/6888/f864f9ecb125cc4d33f70ef6c3691b89b360.pdf)]  
 [Learning from Synthetic Humans](https://arxiv.org/abs/1701.01370)   
-Gül Varol, Javier Romero, Xavier Martin, Naureen Mahmood, Michael Black, Ivan Laptev, Cordelia Schmid.
+by Gül Varol, Javier Romero, Xavier Martin, Naureen Mahmood, Michael Black, Ivan Laptev, Cordelia Schmid.
 
 ### Saturday, 31 December 2016, 14:00
 1. **Liu Si(刘偲)**[[Slide(ppt)](https://pan.baidu.com/s/1qYhLfZY)]  
@@ -17,7 +17,7 @@ Gül Varol, Javier Romero, Xavier Martin, Naureen Mahmood, Michael Black, Ivan L
 
 2. **Ren Guanghui(任广辉)**[[Slide(ppt)](https://pan.baidu.com/s/1pKIKIIB)]  
 [Speed/accuracy trade-offs for modern convolutional object detectors](https://arxiv.org/abs/1611.10012)    
-Jonathan Huang, Vivek Rathod, Chen Sun, Menglong Zhu, Anoop Korattikara, Alireza Fathi, Ian Fischer, Zbigniew Wojna, Yang Song, Sergio Guadarrama, Kevin Murphy.      
+by Jonathan Huang, Vivek Rathod, Chen Sun, Menglong Zhu, Anoop Korattikara, Alireza Fathi, Ian Fischer, Zbigniew Wojna, Yang Song, Sergio Guadarrama, Kevin Murphy.      
 
 3. **Ren Lejian(任乐建)**[[Slide(ppt)]()]   
 [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993)   
