@@ -2,6 +2,15 @@
 layout: default
 permalink: seminar
 ---
+### Saturday, 14 January 2017, 14:00 
+1. **Zhu Defa(朱德发)**[[Slide(ppt)](https://pan.baidu.com/s/1pLvvZeF)] 
+[GANs初游水]()
+
+### Saturday, 7 January 2017, 14:00
+1. **Liu Si(刘偲)**[[Slide(ppt)](https://pdfs.semanticscholar.org/6888/f864f9ecb125cc4d33f70ef6c3691b89b360.pdf)]  
+[Learning from Synthetic Humans](https://arxiv.org/abs/1701.01370)   
+Gül Varol, Javier Romero, Xavier Martin, Naureen Mahmood, Michael Black, Ivan Laptev, Cordelia Schmid.
+
 ### Saturday, 31 December 2016, 14:00
 1. **Liu Si(刘偲)**[[Slide(ppt)](https://pan.baidu.com/s/1qYhLfZY)]  
 [无监督的Dense Correspondence学习方法]()    
