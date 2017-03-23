@@ -1,0 +1,76 @@
+---
+layout: default
+permalink: projects/SVP
+---
+<section class="container">		
+	<h2 class="entry-title" style="text-align: center;">
+		Surveillance Video Parsing with Single Frame Supervision
+	</h2>	
+	<h3>Paper</h3>
+	<ol>
+		<li><strong><u>Si Liu</u></strong>, Changhu Wang, Ruihe Qian, Han Yu, Renda Bao, Surveillance Video Parsing with Single Frame Supervision, arxiv preprint[<a href="https://pan.baidu.com/s/1hrAPH1U">demo</a>].[<a href="https://arxiv.org/pdf/1611.09587v1.pdf">Paper</a>]</li>
+	</ol>
+	<h3>Introduction </h3>
+	<p>
+			&nbsp;&nbsp;Surveillance video parsing, which segments the video
+		frames into several labels, e.g., face, pants, left-leg, has
+		wide applications. However, pixel-wisely annotating
+		all frames is tedious and inefficient. In this paper, we
+		develop a Single frame Video Parsing (SVP) method which
+		requires only one labeled frame per video in training stage.
+		To parse one particular frame, the video segment preceding
+		the frame is jointly considered. SVP (i) roughly parses the
+		frames within the video segment, (ii) estimates the optical
+		flow between frames and (iii) fuses the rough parsing results
+		warped by optical flow to produce the refined parsing
+		result. The three components of SVP, namely frame parsing,
+		optical flow estimation and temporal fusion are integrated
+		in an end-to-end manner. Experimental results on
+		two surveillance video datasets
+	</p>
+	<h3>Deep Architecture</h3>
+	<div class="image-wrapper first">
+		<img src="/images/svp.png"  width="780px"/>
+	</div>
+	<p>
+		&nbsp;&nbsp;Figure 1 shows the SVP network.The input is
+		a triplet {I(t-l),I(t-s),I(t)}, among which only It is labeled.
+		l and s are set empirically. The output is the parsing result
+		P(t). SVP contains three sub-networks. As a preprocessing
+		step, we use Faster R-CNN to extract the
+		human region. Then, the triplet are fed into Conv1~Conv5
+		for discriminative feature extraction. The frame parsing
+		sub-network produces the rough labelmaps
+		for the triplet, denoted as{P(t-l),P(t-s),P(t)}. The optical
+		flow estimation sub-network aims to estimate the dense correspondence
+		between adjacent frames.
+	</p>
+	<h3>Experiments</h3>
+	<div class="image-wrapper first">
+		<img src="/images/svp-table1.png" width="780px"/>
+	</div>
+	<div class="image-wrapper first">
+		<img src="/images/svp-table2.png" width="780px"/>
+	</div>
+	<div class="image-wrapper first">
+		<img src="/images/svp-table3.png" width="390px"/>
+		<img src="/images/svp-table4.png" width="390px"/>
+	</div>
+	<div class="image-wrapper first">
+		<img src="/images/svp-results.png" width="780px"/>
+	</div>
+	<h3>References</h3>
+	<ul>
+		<li>[1] V. Badrinarayanan, A. Handa, and R. Cipolla. Segnet: A
+deep convolutional encoder-decoder architecture for robust
+semantic pixel-wise labelling. arXiv:1505.07293, 2015.
+</li>
+		<li>[2] M. Bai, W. Luo, K. Kundu, and R. Urtasun. Exploiting semantic
+information and deep matching for optical flow. In
+ECCV, 2016.</li>
+<li>[3] A. Bearman, O. Russakovsky, V. Ferrari, and L. Fei-Fei.
+What’s the point: Semantic segmentation</li>
+		<li>......</li>
+	</ul>
+
+</section>

@@ -43,7 +43,11 @@ navigation:
   - text: GroupSeminar
     url: /seminar
     # url: /groupseminar
-
+projects:
+  - text: SurveillanceVideoParsing
+    url:  projects/SVP
+  - text: MakeUp
+    url:  projects/makeup 
 exclude:
   - Gemfile
   - Gemfile.lock
