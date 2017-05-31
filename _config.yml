@@ -46,6 +46,8 @@ navigation:
 projects:
   - text: SurveillanceVideoParsing
     url:  projects/SVP
+  - text: A Real-Time Surveillance Video Parsing System
+    url:  projects/RSVP
   - text: MakeUp
     url:  projects/makeup 
 exclude:
