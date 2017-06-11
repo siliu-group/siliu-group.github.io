@@ -23,7 +23,15 @@
   {% elsif site.theme_mode == 'dark' %}
   <link rel="stylesheet" href="/css/dark.css" />
   {% endif %}
-
+  <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?7b04bc59130b63646c29f35485a86d97";
+      var s = document.getElementsByTagName("script")[0]; 
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
   <!-- Custom style -->
   <!--<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}" />-->
 
