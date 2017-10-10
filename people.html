@@ -11,7 +11,7 @@ var _hmt = _hmt || [];
 (function() {
   var hm = document.createElement("script");
   hm.src = "https://hm.baidu.com/hm.js?7b04bc59130b63646c29f35485a86d97";
-  var s = document.getElementsByTagName("script")[0]; 
+  var s = document.getElementsByTagName("script")[0];
   s.parentNode.insertBefore(hm, s);
 })();
 </script>
@@ -19,6 +19,16 @@ var _hmt = _hmt || [];
 <script type="text/javascript" src="js/cufon-yui.js"></script>
 <script type="text/javascript" src="js/FuturisExtra_400.font.js"></script>
 <script type="text/javascript" src="js/cufon-replace.js"></script>
+<script type="text/javascript" src="js/jcarousellite.js"></script>
+<script type="text/javascript">
+		$(function() {
+			 $(".carousel").jCarouselLite({
+				  visible: 1,
+				  btnNext: ".next",
+				  btnPrev: ".prev"
+			 });
+		});
+   </script>
 <!--[if lt IE 7]>
      <script type="text/javascript" src="js/ie_png.js"></script>
      <script type="text/javascript">
@@ -30,7 +40,7 @@ var _hmt = _hmt || [];
       <script type="text/javascript" src="js/html5.js"></script>
    <![endif]-->
 </head>
-<body id="page7">
+<body id="page1">
 <div id="tail-top-right"></div>
 <div id="main-tail-ver">
   <div id="main-tail-top">
@@ -39,8 +49,7 @@ var _hmt = _hmt || [];
         <!-- header -->
         <div id="header-bg">
           <header>
-            <h1><a href="index.html"><span>webstudio</span></a></h1>
-            <a href="#" id="twitter"></a> </header>
+            <h1><a href="index.html"><span>webstudio</span></a></h1>  <a href="#" id="twitter"></a> </header>
         </div>
         <!-- content -->
         <div id="content-bg">
@@ -49,18 +58,19 @@ var _hmt = _hmt || [];
               <div class="wrapper">
                 <article id="column-left">
                   <nav>
-                  <ul>
-                     <li><a href="index.html">Home</a></li>
+                    <ul>
+                      <li><a href="index.html">Home</a></li>
                       <li><a href="about.html">About</a></li>
-                      <li><a href="people.html">People</a></li>
-                      <li ><a href="publication.html">Publication</a></li>
-                      <li  class="act"><a href="projects.html">Projects</a></li>
-                     <li ><a href="seminar.html">Group seminar</a></li>
+                      <li  class="act"><a href="people.html">People</a></li>
+                      <li><a href="publication.html">Publication</as></li>
+                      <li ><a href="projects.html">Projects</a></li>
+                      <li><a href="seminar.html">Group seminar</a></li>
                       <li><a href="recruitment.html">Recruitment</a></li>
                       <li><a href="life.html">Life</a></li>
                       <li><a href="contacts.html">Contacts</a></li>
                     </ul>
                   </nav>
+
                 </article>
                 <article id="column-right">
                   <div class="content-box">
@@ -68,36 +78,59 @@ var _hmt = _hmt || [];
                       <div class="top">
                         <div class="bot">
                           <div class="inner">
-                            <div class="privacy">
-                              <h4 class="extra"> Projects</h4>
-                              <center>
-                              <table width="700" border="2" class=" table-contact ">
+                             <div class="wrapper">
+                              <h4 > &bull; <a href="people.html"> Head &nbsp; </a> &nbsp;  &bull; <a href="student.html"> Research Student &nbsp; </a> &nbsp; &bull; <a href="former.html"> Former Students</a></h4>
+                              <div class="clear"></div>
+                              <div class="wrapper">
+                                  <h4 class="extra"> Head</h4>
+
+  <table width="300" height="360" border="2" class="table-img" >
   <tbody>
     <tr>
-      <td> 
-        <a href="projects/RSVP">&bull; RSVP: A Real-Time Surveillance Video Parsing with Single Frame Supervision</a>
-      </td>
+      <td> <img src="images/siliu.png"/> </td>
     </tr>
-    <tr>
-      <td><p></p></td>
-    </tr>
-    <tr>
-      <td> 
-        <a href="http://www.spretarget.com">&bull; Deep Semantic Image Retargeting</a>
-      </td>
-    </tr>
-
   </tbody>
 </table>
+ <table width="300" border="2" class="table-people">
+  <tbody>
+   <tr>
+      <td> &nbsp; &nbsp; &bull; Dr. Si Liu</td>
+    </tr>
+   <tr>
+      <td> &nbsp; &nbsp; &bull; Head of S-Lab</td>
+    </tr>
+   <tr>
+      <td> &nbsp; &nbsp; &bull; Associate Professor, IIE, CAS</td>
+    </tr>
+   <tr>
+      <td> &nbsp; &nbsp;  &bull; Research Direction:</td>
+    </tr>
+   <tr>
+      <td> &nbsp; &nbsp;  &nbsp; Sematic Segmentation</td>
+    </tr>
+   <tr>
+      <td> &nbsp; &nbsp;  &nbsp; People Re-identification</td>
+    </tr>
+    <tr>
+      <td> &nbsp; &nbsp;  &nbsp; Object Tracking</td>
+     </tr>
+    <tr>
+      <td> &nbsp; &nbsp;  &nbsp;  Image Retrieval</td>
+    </tr>
+     <tr>
+      <td> &nbsp; &nbsp;  &bull; Email: liusi@iie.ac.cn</td>
+    </tr> </tbody>
+</table>
 
-                              </center>
-                             
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
+
+
+                             </div>
+                             </div>
+                             </div>
+                             </div>
+                             </div>
+                             </div>
+                             </div>
                 </article>
               </div>
             </div>
@@ -108,13 +141,13 @@ var _hmt = _hmt || [];
           <footer>
             <div class="inner">
               <div class="wrapper">
-               <div class="block-1">
+              <div class="block-1">
                   <dl class="list-1">
                     <dt>  <img src="images/iie_cas.gif" /></dt>
-                  
+
                   </dl>
                   <p>
-                    <!-- FOOTER_LINK -->
+                    <!-- {%FOOTER_LINK} -->
                   </p>
                 </div>
                 <div class="block-2">
@@ -127,11 +160,19 @@ var _hmt = _hmt || [];
             </div>
           </footer>
         </div>
-        <!-- coded by Alex_D -->
       </div>
     </div>
   </div>
 </div>
 <script type="text/javascript"> Cufon.now(); </script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-7078796-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
 </body>
 </html>
