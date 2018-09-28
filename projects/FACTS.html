@@ -97,43 +97,50 @@
                             <div class="inner">
                               <div class="privacy">
                                 <h2 class="entry-title" style="text-align: center;">
-                                    Fine-grained Human-centric Tracklet Segmentation with Single Frame Supervision
+                                  Fine-grained Human-centric Tracklet Segmentation with Single Frame Supervision
                                 </h2>
                                 <h3>Authors</h3>
-                                <ol>
-                                  <li>
-                                    <strong>
-                                      <u>Si Liu</u>
-                                    </strong>, Guanghui Ren, Yao Sun, Jinqiao Wang, Changhu Wang, Bo Li, Shuicheng Yan</li>
-                                </ol>
+                                <p>
 
+                                  <strong>
+                                    <u>Si Liu</u>
+                                  </strong>, Guanghui Ren, Yao Sun, Jinqiao Wang, Changhu Wang, Bo Li, Shuicheng Yan
+
+                                </p>
                                 <h3>Dataset</h3>
-                                You can download the Indoor Dataset from
-                                <a href="https://pan.baidu.com/s/1w4_5GMN403z88t2aMEIcLA">Baidu Drive</a>(pwd: 7mbh).
-
+                                <p>
+                                  You can download the Indoor Dataset from
+                                  <a href="https://pan.baidu.com/s/1w4_5GMN403z88t2aMEIcLA">Baidu Drive</a>(pwd: 7mbh).
+                                </p>
                                 <h3>Introduction </h3>
                                 <p>
-                                  &nbsp;&nbsp;The architecture of the proposed network. The input are {It−l
-                                    , It−s, It} and the output are the
-                                    segmentation result of It. The triplet is sequentially fed into a feature extraction module and three parallel
-                                    modules. The optical flow and frame parsing modules mine the pixel-level context and refine the parsing results
-                                    pixel-wisely. The frame classification modules generate reliable likelihood vector by regularizing consequent
-                                    frames to share similar globa4l labels. The pixel-level confidence map and frame-level likelihood vector are fused
-                                    to produce the final output.<h3>Framework</h3>
+                                  &nbsp;&nbsp;In this paper, we target at the Fine-grAined human-Centric Tracklet Segmentation (FACTS) problem, where 12 human
+                                  parts, i.e., face, pants, left-leg, are segmented. To reduce the heavy and tedious labeling
+                                  efforts, FACTS requires only one labeled frame per video during training. The small size
+                                  of human parts and the labeling scarcity makes FACTS very challenging. Considering the
+                                  adjacent frames of videos are continuous and human dressing are consistent in a snippet,
+                                  we explicitly consider the pixel-level and frame-level context in the proposed method.
+                                  More specially, optical flow are on-line calculated to propagate the pixel-level segmentation
+                                  results to neighboring frames. Frame-level classification likelihood vectors of nearby
+                                  frames vote for the likelihood vector of one particular frame. Fully exploiting the pixel-level
+                                  and frame-level context indirectly uses the large amount of unlabeled frames during training
+                                  and makes the segmentation results smoother during inference. Experimental results on four
+                                  video datasets show the superiority of our method over the state-of-the-arts. .
+                                  <h3>Framework</h3>
 
-                                <div class="image-wrapper first">
-                                  <img src="../images/projects/FACTS/framework.png" width="675px" />
-                                </div>
-                                <p>
-                                  &nbsp;&nbsp;The architecture of the proposed network. The input is a triplet {I(t-l),I(t-s),I(t)}, among which only It is labeled. l
-                                  and s are set empirically. The output is the parsing result P(t). SVP contains three sub-networks.
-                                  As a preprocessing step, we use Faster R-CNN to extract the human region. Then, the triplet
-                                  are fed into Conv1~Conv5 for discriminative feature extraction. The frame parsing sub-network
-                                  produces the rough labelmaps for the triplet, denoted as{P(t-l),P(t-s),P(t)}. The optical
-                                  flow estimation sub-network aims to estimate the dense correspondence between adjacent
-                                  frames.
-                                </p>
-                                <!-- <h3>Experiments</h3>
+                                  <div class="image-wrapper first">
+                                    <img src="../images/projects/FACTS/framework.png" width="675px" />
+                                  </div>
+                                  <p>
+                                    &nbsp;&nbsp;The architecture of the proposed network. The input are {It−l , It−s, It} and the output are the segmentation
+                                    result of It. The triplet is sequentially fed into a feature extraction module and three
+                                    parallel modules. The optical flow and frame parsing modules mine the pixel-level context
+                                    and refine the parsing results pixel-wisely. The frame classification modules generate
+                                    reliable likelihood vector by regularizing consequent frames to share similar global
+                                    labels. The pixel-level confidence map and frame-level likelihood vector are fused to
+                                    produce the final output.
+                                  </p>
+                                  <!-- <h3>Experiments</h3>
                                 <div class="image-wrapper first">
                                   <img src="../images/projects/SVP/svp-table1.png" width="675px" />
                                 </div>
@@ -147,28 +154,15 @@
                                 <div class="image-wrapper first">
                                   <img src="../images/projects/SVP/svp-results.png" width="675px" />
                                 </div> -->
-                                
-                                <h3>References</h3>
-                                <ul>
-                                  <li>[1] V. Badrinarayanan, A. Handa, and R. Cipolla. Segnet: A deep convolutional encoder-decoder
-                                    architecture for robust semantic pixel-wise labelling. arXiv:1505.07293, 2015.
-                                  </li>
-                                  <li>[2] M. Bai, W. Luo, K. Kundu, and R. Urtasun. Exploiting semantic information and deep
-                                    matching for optical flow. In ECCV, 2016.</li>
-                                  <li>[3] A. Bearman, O. Russakovsky, V. Ferrari, and L. Fei-Fei. What’s the point: Semantic
-                                    segmentation
-                                  </li>
-                                  <li>......</li>
-                                </ul>
 
-
-
-
-
-
-
-
-
+                                  <h3>References</h3>
+                                  <p>
+                                    [1] Si Liu, Changhu Wang, Ruihe Qian, Han Yu, Renda Bao, Yao Sun, Surveillance Video Parsing with Single Frame Supervision,
+                                    CVPR 2017
+                                    <br> [2] Han Yu, Guanghui Ren, Ruihe Qian, Yao Sun, Changhu Wang, Hanqing Lu and Si Liu,
+                                    RSVP: A Real-Time Surveillance Video Parsing System with Single Frame Supervision, ACM
+                                    MM 2017
+                                  </p>
                               </div>
                             </div>
                           </div>
