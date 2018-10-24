@@ -1,0 +1,179 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <meta name="description" content="Video Event Detection" />
+    <meta name="keywords" content="Constraint Flow" />
+    <meta name="author" content="Wei Zhen" />
+    <link rel="stylesheet" href="css/SPR.css" type="text/css" />
+    <title>PP-GANs: Pull and Push GANs For Large-gap and Adjacent Face Aging</title>
+</head>
+
+
+<body>
+
+
+<!-- --------------------------------
+-
+- header
+-
+---- --------------------------------
+-->
+<div id="header">
+    <div class="wrap">
+        <div id="intro">
+            <h1 align="center" id="logo">PP-GANs: Pull and Push GANs For Large-gap and Adjacent Face Aging</h1>
+            <div align="center">
+                <table width="80%" border="0" align="center" cellpadding="0" cellspacing="0">
+                    <tr>
+                        <td width="25%" height="30" align='center'><a target="_blank">Si Liu<sup>1</sup></a></td>
+                        <td width="20%" height="30" align='center'><a target="_blank">Defa Zhu<sup>2</sup></a></td>
+                        <td width="20%" height="30" align='center'><a target="_blank">Renda Bao<sup>2</sup></a></td>
+                        <td width="20%" height="30" align='center'><a target="_blank">Chen Gao<sup>2</sup></a></td>
+                        <td width="20%" height="30" align='center'><a target="_blank">Yu Chen<sup>3</sup></a></td>
+                    </tr>
+                </table>
+                <table>
+                    <tr>
+                        <td width="25%" height="30" align='center'><a target="_blank">Bo Li<sup>1</sup></a></td>
+                        <td width="25%" height="30" align='center'><a target="_blank">Shuicheng Yan<sup>4</sup></a></td>
+                    </tr>
+                </table>
+                <table>
+                    <tr>
+                        <td height="20" colspan="4" align='center'><sup>1</sup>School of Computer Science and Engineering, Beihang University</td>
+                        <p align="center">
+                        </p>
+                    </tr>
+                    <tr>
+                        <td height="20" colspan="4" align='center'><sup>2</sup>Chinese Academy of Sciences</td>
+                        <p align="center">
+                        </p>
+                    </tr>
+                    <tr>
+                        <td height="20" colspan="4" align='center'><sup>3</sup>JD.com</td>
+                        <p align="center">
+                        </p>
+                    </tr>
+                    <tr>
+                        <td height="20" colspan="4" align='center'><sup>4</sup>Qihoo 360 AI Institute, Beijing, China</td>
+                        <p align="center">
+                        </p>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        <div class="nline1"></div>
+    </div>
+</div>
+
+
+
+<!-- --------------------------------
+-
+- Abstract
+-
+---- --------------------------------
+-->
+<div id="cont">
+    <div class="wrap">
+        <h2 id="subject">Abstract</h1>
+            <p align="justify" style="text-indent:2em">
+                Conditional GANs (cGANs), as variants of GANs, are the key to many applications.
+                However, in the GAN community, the research on the interpretability of cGAN is uncommon.
+                We therefore provide an intuitive way to explain a family of cGAN that are conditional on categorical variables,
+                called the view of pull and push terms. The purpose of the pull term is to direct the generator to tend to fit a target distribution,
+                while the push term forces the generator away from a taboo distribution. Based on this interpretation,
+                A component called the cross classifier, with multiple effective push terms and one pull term used to guide the optimization of generator G,
+                is designed for the discriminator. To verify the validity of our interpretation method and test the performance of cross classifier,
+                we performed the necessary experiments on large-gap face aging task, which can be modeled by this family of cGAN.
+                At the same time, for this task, we have designed a novel and efficient generator following
+                the guidelines of balance the impact of face image input and conditional information input on response of generator.
+                Furthermore, in order to constrain the correlation between synthetic face and
+                input face and the consistency of key attributes between different age transformations,
+                we propose a flexible triangular consistency constraint. Finally, experimental results demonstrate
+                the proposed interpretation is instructive and the proposed framework exceeds the state-of-the-art with a significant gap.
+            </p>
+            <div class="line"></div>
+    </div>
+</div>
+
+<!-- --------------------------------
+-
+- Architecture Overview
+-
+---- --------------------------------
+-->
+<div id="cont">
+    <div class="wrap">
+        <h2 id="subject">Architecture Overview</h2>
+        <p align="justify" style="text-indent:2em">
+
+        </p>
+        <p style="text-align:center">
+            <img src="../images/projects/PP-GANs/framework.png" alt="" width="720" height="251" align="bottom" />
+        </p>
+        <div class="caption">
+            <p class="caption-content">
+                <strong class="fig-label">Figure 1</strong>.
+                This figure displays the abstract model we designed inspired by the view of pull and push terms.
+                Age is divided into C groups as category condition which is inputted to the condition receiver of
+                generator G. Each category y 2 {1, · · · , C } is subdivided into real and fake categories,
+                yt and yf , to indicate whether it is derived from real distribution or synthetic distribution.
+                We let yt = y and yf = y + C for convenience. Face image x and age condition y, which are sampled
+                from true marginal distribution q(x) and q(y) respectively, form pair (x,y) to input to generator
+                to get G(x,y). In the training phase, generator G and discriminator D alternate training.
+                In the training round of D, sampling real data (x, y) ⇠ q(x, y), D is trained to judge x as true
+                and classify it into yt. When inputting G(x,y), D is trained to judge it as fake and classify it into yf.
+                In the training round of G, G is trained to trick D so that D judges G(x,y) as true and classifies G(x,y)
+                into yt. After the training is completed, the same face pairing different age conditions are
+                inputted into G and G will output faces of the corresponding different age.
+            </p>
+        </div>
+        <p style="text-align:center">
+            <img src="../images/projects/PP-GANs/generator0829.png" alt="" width="720" height="383" align="bottom" />
+        </p>
+        <div class="caption">
+            <p class="caption-content">
+                <strong class="fig-label">Figure 2</strong>.
+                The generator is designed with a trade-off between two rules: 1.Fully and effectively utilizing
+                the original image information; 2.Enhancing the conditional effect of G. The generator therefore
+                is in the form of two-stream structure, including sampler group and deep network backbone.
+                For first rule, the sampler group, which is modeled by multiple convolutions with different
+                dilation rates as drawn in bottom stream, is devised for sampling different distance information.
+                For the second rule, the condition information is input to everywhere in the generator to enhance
+                conditional effect. CIN [12] is embedded in all the residual blocks in the deep network backbone
+                and sampler group. Let N is the number of samplers. In addition to generating high-level features,
+                the deep network backbone predicts N attention maps to weight the corresponding sampler sampling
+                results to obtain weighted-sample features. Finally, the high-level features, weighted-sample
+                features and conditional information are combined to generate image that satisfies the input condition.
+            </p>
+        </div>
+        <div class="line"></div>
+    </div>
+</div>
+
+<div id="footer">
+
+</div>
+<div id="cont">
+    <div class="wrap">
+        <h2 id="subject">Performance</h2>
+
+    <!-- --------------------------------
+    -
+    - References
+    -
+    ---- --------------------------------
+    -->
+    <div id="cont">
+        <div class="wrap">
+            <h2 id="subject">References</h2>
+            <ul class="ref-list" align="justify">
+
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
