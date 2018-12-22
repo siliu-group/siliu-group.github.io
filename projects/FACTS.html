@@ -1,227 +1,247 @@
---- 
-permalink: projects/FACTS 
----
-
-<!DOCTYPE html>
-<html lang="en">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
-  <title>S-Lab</title>
-  <meta charset="utf-8">
-  <link href="../css/reset.css" rel="stylesheet" type="text/css" />
-  <link href="../css/layout.css" rel="stylesheet" type="text/css" />
-  <link href="../css/style.css" rel="stylesheet" type="text/css" />
-  <script>
-    var _hmt = _hmt || [];
-    (function () {
-      var hm = document.createElement("script");
-      hm.src = "https://hm.baidu.com/hm.js?7b04bc59130b63646c29f35485a86d97";
-      var s = document.getElementsByTagName("script")[0];
-      s.parentNode.insertBefore(hm, s);
-    })();
-  </script>
-  <script type="text/javascript" src="../js/jquery-1.4.2.min.js"></script>
-  <script type="text/javascript" src="../js/cufon-yui.js"></script>
-  <script type="text/javascript" src="../js/FuturisExtra_400.font.js"></script>
-  <script type="text/javascript" src="../js/cufon-replace.js"></script>
-  <!--[if lt IE 7]>
-     <script type="text/javascript" src="js/ie_png.js"></script>
-     <script type="text/javascript">
-     ie_png.fix('.png, #twitter, .carousel-box button.prev, .carousel-box button.next');
-     </script>
-     <link href="css/ie/ie6.css" rel="stylesheet" type="text/css" />
-   <![endif]-->
-  <!--[if IE]>
-      <script type="text/javascript" src="js/html5.js"></script>
-   <![endif]-->
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <meta name="description" content="BeautyGAN" />
+    <meta name="keywords" content="GANs" />
+    <meta name="author" content="" />
+    <link href="../css/PP-GANs.css" rel="stylesheet" type="text/css" />
+    <title>FACTS</title>
 </head>
 
-<body id="page7">
-  <div id="tail-top-right"></div>
-  <div id="main-tail-ver">
-    <div id="main-tail-top">
-      <div id="main-bg-top">
-        <div id="main">
-          <!-- header -->
-          <div id="header-bg">
-            <header>
-              <h1>
-                <a href="index.html">
-                  <span>webstudio</span>
-                </a>
-              </h1>
-              <a href="#" id=""></a>
-            </header>
-          </div>
-          <!-- content -->
-          <div id="content-bg">
-            <section id="content">
-              <div id="indent">
-                <div class="wrapper">
-                  <article id="column-left">
-                    <nav>
-                      <ul>
-                        <li>
-                          <a href="../index.html">Home</a>
-                        </li>
-                        <li>
-                          <a href="../about.html">About</a>
-                        </li>
-                        <li>
-                          <a href="../people.html">People</a>
-                        </li>
-                        <li>
-                          <a href="../publication.html">Publication</a>
-                        </li>
-                        <li class="act">
-                          <a href="../projects.html">Projects</a>
-                        </li>
-                        <li>
-                          <a href="../seminar.html">Group seminar</a>
-                        </li>
-                        <li>
-                          <a href="../recruitment.html">Recruitment</a>
-                        </li>
-                        <li>
-                          <a href="../life.html">Life</a>
-                        </li>
-                        <li>
-                          <a href="../contacts.html">Contacts</a>
-                        </li>
-                      </ul>
-                    </nav>
-                  </article>
-                  <article id="column-right">
-                    <div class="content-box">
-                      <div class="tail">
-                        <div class="top">
-                          <div class="bot">
-                            <div class="inner">
-                              <div class="privacy">
-                                <h2 class="entry-title" style="text-align: center;">
-                                  Fine-grained Human-centric Tracklet Segmentation with Single Frame Supervision
-                                </h2>
-                                <h3>Authors</h3>
-                                <p>
+<body>
 
-                                  <strong>
-                                    <u>Si Liu</u>
-                                  </strong>, Guanghui Ren, Yao Sun, Jinqiao Wang, Changhu Wang, Bo Li, Shuicheng Yan
 
-                                </p>
-                                <h3>Dataset</h3>
-                                <p>
-                                  You can download the Indoor, Outdoor, iLIDS-Parsing and Daily Dataset from
-                                  <a href="https://pan.baidu.com/s/1SjXo47SVIEmiky2xOOltjw">Baidu Drive</a>(pwd: 63qi) or
-                                  <a href="https://drive.google.com/drive/folders/1fzN1eJ7nGYDQPFmKTPuSAf5-oHPQS7s3?usp=sharing">Google Drive</a>
-                                </p>
-                                <h3>Introduction </h3>
-                                <p>
-                                  &nbsp;&nbsp;In this paper, we target at the Fine-grAined human-Centric Tracklet Segmentation (FACTS) problem, where 12 human
-                                  parts, i.e., face, pants, left-leg, are segmented. To reduce the heavy and tedious labeling
-                                  efforts, FACTS requires only one labeled frame per video during training. The small size
-                                  of human parts and the labeling scarcity makes FACTS very challenging. Considering the
-                                  adjacent frames of videos are continuous and human dressing are consistent in a snippet,
-                                  we explicitly consider the pixel-level and frame-level context in the proposed method.
-                                  More specially, optical flow are on-line calculated to propagate the pixel-level segmentation
-                                  results to neighboring frames. Frame-level classification likelihood vectors of nearby
-                                  frames vote for the likelihood vector of one particular frame. Fully exploiting the pixel-level
-                                  and frame-level context indirectly uses the large amount of unlabeled frames during training
-                                  and makes the segmentation results smoother during inference. Experimental results on four
-                                  video datasets show the superiority of our method over the state-of-the-arts. .
-                                  <h3>Framework</h3>
+    <!-- --------------------------------
+-
+- header
+-
+---- --------------------------------
+-->
+    <div id="header">
+        <div class="wrap">
+            <div id="intro">
+                <h1 align="center" id="logo">Fine-grained Human-centric Tracklet Segmentation with Single Frame Supervision</h1>
+                <div align="center">
+                    <table width="80%" border="0" align="center" cellpadding="0" cellspacing="0">
+                        <tr>
+                            <td width="25%" height="30" align='center'>
+                                <a target="_blank">Si Liu
+                                    <sup>1</sup>
+                                </a>
+                            </td>
+                            <td width="20%" height="30" align='center'>
+                                <a target="_blank">Guanghui Ren
+                                    <sup>2</sup>
+                                </a>
+                            </td>
+                            <td width="20%" height="30" align='center'>
+                                <a target="_blank">Yao Sun
+                                    <sup>2</sup>
+                                </a>
+                            </td>
+                            <td width="20%" height="30" align='center'>
+                                <a target="_blank">Jinqiao Wang
+                                    <sup>3</sup>
+                                </a>
+                            </td>
 
-                                  <div class="image-wrapper first">
-                                    <img src="../images/projects/FACTS/framework.png" width="675px" />
-                                  </div>
-                                  <p>
-                                    &nbsp;&nbsp;The architecture of the proposed network. The input are {It−l , It−s, It} and the output are the segmentation
-                                    result of It. The triplet is sequentially fed into a feature extraction module and three
-                                    parallel modules. The optical flow and frame parsing modules mine the pixel-level context
-                                    and refine the parsing results pixel-wisely. The frame classification modules generate
-                                    reliable likelihood vector by regularizing consequent frames to share similar global
-                                    labels. The pixel-level confidence map and frame-level likelihood vector are fused to
-                                    produce the final output.
-                                  </p>
-                                  <!-- <h3>Experiments</h3>
-                                <div class="image-wrapper first">
-                                  <img src="../images/projects/SVP/svp-table1.png" width="675px" />
-                                </div>
-                                <div class="image-wrapper first">
-                                  <img src="../images/projects/SVP/svp-table2.png" width="675px" />
-                                </div>
-                                <div class="image-wrapper first">
-                                  <img src="../images/projects/SVP/svp-table3.png" width="330px" />
-                                  <img src="../images/projects/SVP/svp-table4.png" width="330px" />
-                                </div>
-                                <div class="image-wrapper first">
-                                  <img src="../images/projects/SVP/svp-results.png" width="675px" />
-                                </div> -->
-                                  <h3>Demo</h3>
-                                  <div class="image-wrapper">
-                                    <div class="image featured">
-                                      <video width="675" height="382" autoplay controls="controls">
-                                        <source src="../videos/FACTS/facts.mp4" type="video/mp4" />
-                                        <source src="../videos/FACTS/facts.ogg" type="video/ogg" />
-                                        <source src="../videos/FACTS/facts.webm" type="video/webm" /> Your browser does not support the video tag.
-                                      </video>
-                                    </div>
-                                    <p> <b>Note: the area of neck is labeled as background in groudtruth and only one target human are segmented.
-                                      </b>
-                                      </p>
-                                  </div>
-                                  <h3>References</h3>
-                                  <p>
-                                    [1] Si Liu, Changhu Wang, Ruihe Qian, Han Yu, Renda Bao, Yao Sun, Surveillance Video Parsing with Single Frame Supervision,
-                                    CVPR 2017
-                                    <br> [2] Han Yu, Guanghui Ren, Ruihe Qian, Yao Sun, Changhu Wang, Hanqing Lu and Si Liu,
-                                    RSVP: A Real-Time Surveillance Video Parsing System with Single Frame Supervision, ACM
-                                    MM 2017
-                                  </p>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </article>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <td width="20%" height="30" align='center'>
+                                <a target="_blank">Changhu Wang
+                                    <sup>4</sup>
+                                </a>
+                            </td>
+                            <td width="25%" height="30" align='center'>
+                                <a target="_blank">Bo Li
+                                    <sup>1</sup>
+                                </a>
+                            </td>
+                            <td width="25%" height="30" align='center'>
+                                <a target="_blank">Shuicheng Yan
+                                    <sup>5</sup>
+                                </a>
+                            </td>
+                        </tr>
+                    </table>
+                    <table>
+                        <tr>
+                            <td height="20" colspan="4" align='center'>
+                                <sup>1</sup>Beihang University</td>
+                            <p align="center">
+                            </p>
+                        </tr>
+                        <tr>
+                            <td height="20" colspan="4" align='center'>
+                                <sup>2</sup>Institue of Information Engineering, CAS</td>
+                            <p align="center">
+                            </p>
+                        </tr>
+                        <tr>
+                            <td height="20" colspan="4" align='center'>
+                                <sup>3</sup> National Laboratory of Pattern Recognition, Institute of Automation, CAS</td>
+                            <p align="center">
+                            </p>
+                        </tr>
+                        <tr>
+                            <td height="20" colspan="4" align='center'>
+                                <sup>4</sup>ByteDance AI Lab</td>
+                            <p align="center">
+                            </p>
+                        </tr>
+                        <tr>
+                            <td height="20" colspan="4" align='center'>
+                                <sup>5</sup>Qihoo 360 AI Institute</td>
+                            <p align="center">
+                            </p>
+                        </tr>
+                    </table>
                 </div>
-              </div>
-            </section>
-          </div>
-          <!-- footer -->
-          <div id="footer-tail">
-            <footer>
-              <div class="inner">
-                <div class="wrapper">
-                  <div class="block-1">
-                    <dl class="list-1">
-                      <dt>
-                        <img src="../ " />
-                      </dt>
-
-                    </dl>
-                    <p>
-                      <!-- FOOTER_LINK -->
-                    </p>
-                  </div>
-                  <div class="block-2">
-                    <dl class="list-1">
-                      <dd>
-                        <p>Copyright (C) 2017, S-Lab @ CAS</p>
-                      </dd>
-                    </dl>
-                  </div>
-                </div>
-              </div>
-            </footer>
-          </div>
-          <!-- coded by Alex_D -->
+            </div>
+            <div class="nline1"></div>
         </div>
-      </div>
     </div>
-  </div>
-  <script type="text/javascript"> Cufon.now(); </script>
+
+
+
+    <!-- --------------------------------
+-
+- Abstract
+-
+---- --------------------------------
+-->
+    <div id="cont">
+        <div class="wrap">
+            <h2 id="subject">Abstract</h1>
+                <p align="justify" style="text-indent:2em">
+                    In this paper, we target at the Fine-grAined human-Centric Tracklet Segmentation (FACTS) problem, where 12 human parts, e.g.,
+                    face, pants, left-leg, are segmented. To reduce the heavy and tedious labeling efforts, FACTS requires
+                    only one labeled frame per video during training. The small size of human parts and the labeling scarcity
+                    makes FACTS very challenging. Considering adjacent frames of videos are continuous and human usually
+                    do not change clothes in a short time, we explicitly consider the pixel-level and frame-level context
+                    in the proposed Temporal context Segmentation Network (TSN). On one hand, optical flow is on-line calculated
+                    to propagate the pixel-level segmentation results to neighboring frames. On the other hand, frame-level
+                    classification likelihood vectors are also propagated to nearby frames. By fully exploiting the pixel-level
+                    and framelevel context, TSN indirectly uses the large amount of unlabeled frames during training and
+                    produces smooth segmentation results during inference. Experimental results on four video datasets show
+                    the superiority of TSN over the state-of-the-arts. The newly annotated datasets can be downloaded via
+                    http://liusi-group.com/projects/FACTS for the further studies.
+                </p>
+                <div class="line"></div>
+        </div>
+    </div>
+
+    <!-- --------------------------------
+-
+- Dataset
+-
+---- --------------------------------
+-->
+    <div id="cont">
+        <div class="wrap">
+            <h2 id="subject">Dataset</h1>
+                <p align="justify" style="text-indent:2em">
+                </p>
+                You can download the Indoor, Outdoor, iLIDS-Parsing and Daily Dataset from
+                <a href="https://pan.baidu.com/s/1SjXo47SVIEmiky2xOOltjw">Baidu Drive</a>(pwd: 63qi) or
+                <a href="https://drive.google.com/drive/folders/1fzN1eJ7nGYDQPFmKTPuSAf5-oHPQS7s3?usp=sharing">Google Drive</a>
+                <div class="line"></div>
+        </div>
+    </div>
+
+    <!-- --------------------------------
+-
+- Framework
+-
+---- --------------------------------
+-->
+    <div id="cont">
+        <div class="wrap">
+            <h2 id="subject">Framework</h2>
+            <p align="justify" style="text-indent:2em">
+            </p>
+            <img src="../images/projects/FACTS/framework.png" width="1000px" /> The architecture of the proposed network. The input are {It−l , It−s, It} and the output are the segmentation
+            result of It. The triplet is sequentially fed into a feature extraction module and three parallel modules. The
+            optical flow and frame parsing modules mine the pixel-level context and refine the parsing results pixel-wisely.
+            The frame classification modules generate reliable likelihood vector by regularizing consequent frames to share
+            similar global labels. The pixel-level confidence map and frame-level likelihood vector are fused to produce
+            the final output.
+            <div class="line"></div>
+        </div>
+    </div>
+    <!-- --------------------------------
+-
+- Experiment
+-
+---- --------------------------------
+-->
+    <div id="cont">
+        <div class="wrap">
+            <h2 id="subject">Experiment</h2>
+            <p align="justify" style="text-indent:2em">
+            </p>
+            <img src="../images/projects/FACTS/experiment.png" width="1000px" /> “l” or “s” means using long or short range nearby frames for pixel-level context propagation, while “c” means
+            the confidence is used in the fusion of warped optical flows. The techniques corresponding to “l”, “s”, and “c”
+            have been discussed in
+            <a href="https://arxiv.org/pdf/1611.09587.pdf">our CVPR paper</a>. “f” refers the method of using frame-level context, and “uf” means using the unsupervised
+            fine-tuned optical flow.
+            <div class="line"></div>
+        </div>
+    </div>
+
+    <!-- --------------------------------
+-
+- Demo
+-
+---- --------------------------------
+-->
+    <div id="cont">
+        <div class="wrap">
+            <h2 id="subject">Demo</h2>
+            <p align="justify" style="text-indent:2em">
+            </p>
+            <video width="1000" autoplay controls="controls">
+                <source src="../videos/FACTS/facts.mp4" type="video/mp4" />
+                <source src="../videos/FACTS/facts.ogg" type="video/ogg" />
+                <source src="../videos/FACTS/facts.webm" type="video/webm" /> Your browser does not support the video tag.
+            </video>
+            <br>
+            <br/>
+            <b>Note: the area of neck is labeled as background in groudtruth and only one target human is segmented.
+            </b>
+            <div class="line"></div>
+        </div>
+    </div>
+
+
+
+
+    <!-- --------------------------------
+-
+- References
+-
+---- --------------------------------
+-->
+    <div id="cont">
+        <div class="wrap">
+            <h2 id="subject">References</h2>
+            <p align="justify" style="text-indent:2em">
+                <ul class="ref-list" align="justify">
+                    <li>[1] Si Liu, Changhu Wang, Ruihe Qian, Han Yu, Renda Bao, Yao Sun, Surveillance Video Parsing with Single
+                        Frame Supervision, CVPR 2017</li>
+                    <li>[2] Han Yu, Guanghui Ren, Ruihe Qian, Yao Sun, Changhu Wang, Hanqing Lu and Si Liu, RSVP: A Real-Time
+                        Surveillance Video Parsing System with Single Frame Supervision, ACM MM 2017</li>
+                </ul>
+        </div>
+        <br> </br>
+    </div>
+    <!-- <div id="footer"></div> -->
+
+    </div>
 </body>
 
 </html>
